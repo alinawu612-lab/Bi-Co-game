@@ -1,0 +1,6 @@
+{
+  "name": "Terra Bi-Co",
+  "description": "An interactive 2D STEM open-world game where players terraform the Bi-Co island, cultivate crops, and help the Haverford Black Squirrel and Bryn Mawr Owl using chemistry, biology, physics, and engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
